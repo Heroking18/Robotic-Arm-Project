@@ -1,0 +1,3 @@
+[console_scripts]
+welder_cont = welder_control.main:main
+

@@ -1,0 +1,21 @@
+[1.096s] Invoking command in '/home/andre/robo_arm_ws/src/welder_control': PYTHONPATH=/home/andre/robo_arm_ws/build/welder_control/prefix_override:/home/andre/robo_arm_ws/install/welder_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/welder_control build --build-base /home/andre/robo_arm_ws/build/welder_control/build install --record /home/andre/robo_arm_ws/build/welder_control/install.log --single-version-externally-managed install_data
+[1.365s] running egg_info
+[1.366s] writing ../../build/welder_control/welder_control.egg-info/PKG-INFO
+[1.366s] writing dependency_links to ../../build/welder_control/welder_control.egg-info/dependency_links.txt
+[1.367s] writing entry points to ../../build/welder_control/welder_control.egg-info/entry_points.txt
+[1.367s] writing requirements to ../../build/welder_control/welder_control.egg-info/requires.txt
+[1.367s] writing top-level names to ../../build/welder_control/welder_control.egg-info/top_level.txt
+[1.369s] reading manifest file '../../build/welder_control/welder_control.egg-info/SOURCES.txt'
+[1.370s] writing manifest file '../../build/welder_control/welder_control.egg-info/SOURCES.txt'
+[1.370s] running build
+[1.371s] running build_py
+[1.371s] running install
+[1.371s] running install_lib
+[1.372s] running install_data
+[1.372s] running install_egg_info
+[1.374s] removing '/home/andre/robo_arm_ws/install/welder_control/lib/python3.10/site-packages/welder_control-0.0.0-py3.10.egg-info' (and everything under it)
+[1.374s] Copying ../../build/welder_control/welder_control.egg-info to /home/andre/robo_arm_ws/install/welder_control/lib/python3.10/site-packages/welder_control-0.0.0-py3.10.egg-info
+[1.375s] running install_scripts
+[1.396s] Installing welder_cont script to /home/andre/robo_arm_ws/install/welder_control/lib/welder_control
+[1.396s] writing list of installed files to '/home/andre/robo_arm_ws/build/welder_control/install.log'
+[1.482s] Invoked command in '/home/andre/robo_arm_ws/src/welder_control' returned '0': PYTHONPATH=/home/andre/robo_arm_ws/build/welder_control/prefix_override:/home/andre/robo_arm_ws/install/welder_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/welder_control build --build-base /home/andre/robo_arm_ws/build/welder_control/build install --record /home/andre/robo_arm_ws/build/welder_control/install.log --single-version-externally-managed install_data

@@ -1,0 +1,52 @@
+[1.119s] Invoking command in '/home/andre/robo_arm_ws/src/welder_description': PYTHONPATH=/home/andre/robo_arm_ws/build/welder_description/prefix_override:/home/andre/robo_arm_ws/install/welder_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/welder_description build --build-base /home/andre/robo_arm_ws/build/welder_description/build install --record /home/andre/robo_arm_ws/build/welder_description/install.log --single-version-externally-managed install_data
+[1.394s] running egg_info
+[1.395s] creating ../../build/welder_description/welder_description.egg-info
+[1.395s] writing ../../build/welder_description/welder_description.egg-info/PKG-INFO
+[1.395s] writing dependency_links to ../../build/welder_description/welder_description.egg-info/dependency_links.txt
+[1.395s] writing entry points to ../../build/welder_description/welder_description.egg-info/entry_points.txt
+[1.396s] writing requirements to ../../build/welder_description/welder_description.egg-info/requires.txt
+[1.396s] writing top-level names to ../../build/welder_description/welder_description.egg-info/top_level.txt
+[1.396s] writing manifest file '../../build/welder_description/welder_description.egg-info/SOURCES.txt'
+[1.398s] reading manifest file '../../build/welder_description/welder_description.egg-info/SOURCES.txt'
+[1.399s] writing manifest file '../../build/welder_description/welder_description.egg-info/SOURCES.txt'
+[1.399s] running build
+[1.400s] running build_py
+[1.400s] creating /home/andre/robo_arm_ws/build/welder_description/build
+[1.400s] creating /home/andre/robo_arm_ws/build/welder_description/build/lib
+[1.400s] creating /home/andre/robo_arm_ws/build/welder_description/build/lib/welder_description
+[1.400s] copying welder_description/__init__.py -> /home/andre/robo_arm_ws/build/welder_description/build/lib/welder_description
+[1.401s] running install
+[1.401s] running install_lib
+[1.401s] creating /home/andre/robo_arm_ws/install/welder_description/lib/python3.10/site-packages/welder_description
+[1.401s] copying /home/andre/robo_arm_ws/build/welder_description/build/lib/welder_description/__init__.py -> /home/andre/robo_arm_ws/install/welder_description/lib/python3.10/site-packages/welder_description
+[1.402s] byte-compiling /home/andre/robo_arm_ws/install/welder_description/lib/python3.10/site-packages/welder_description/__init__.py to __init__.cpython-310.pyc
+[1.402s] running install_data
+[1.402s] creating /home/andre/robo_arm_ws/install/welder_description/share/ament_index
+[1.402s] creating /home/andre/robo_arm_ws/install/welder_description/share/ament_index/resource_index
+[1.403s] creating /home/andre/robo_arm_ws/install/welder_description/share/ament_index/resource_index/packages
+[1.403s] copying resource/welder_description -> /home/andre/robo_arm_ws/install/welder_description/share/ament_index/resource_index/packages
+[1.403s] copying package.xml -> /home/andre/robo_arm_ws/install/welder_description/share/welder_description
+[1.404s] creating /home/andre/robo_arm_ws/install/welder_description/share/welder_description/launch
+[1.404s] copying launch/display.launch.py -> /home/andre/robo_arm_ws/install/welder_description/share/welder_description/launch
+[1.404s] copying launch/gazebo.launch.py -> /home/andre/robo_arm_ws/install/welder_description/share/welder_description/launch
+[1.404s] creating /home/andre/robo_arm_ws/install/welder_description/share/welder_description/urdf
+[1.405s] copying urdf/ros2_control.xacro -> /home/andre/robo_arm_ws/install/welder_description/share/welder_description/urdf
+[1.405s] copying urdf/welder.gazebo -> /home/andre/robo_arm_ws/install/welder_description/share/welder_description/urdf
+[1.405s] copying urdf/welder.xacro -> /home/andre/robo_arm_ws/install/welder_description/share/welder_description/urdf
+[1.405s] copying urdf/welder.trans -> /home/andre/robo_arm_ws/install/welder_description/share/welder_description/urdf
+[1.405s] creating /home/andre/robo_arm_ws/install/welder_description/share/welder_description/meshes
+[1.405s] copying meshes/link_4_1.stl -> /home/andre/robo_arm_ws/install/welder_description/share/welder_description/meshes
+[1.406s] copying meshes/link_3_1.stl -> /home/andre/robo_arm_ws/install/welder_description/share/welder_description/meshes
+[1.406s] copying meshes/link_6_1.stl -> /home/andre/robo_arm_ws/install/welder_description/share/welder_description/meshes
+[1.406s] copying meshes/link_2_1.stl -> /home/andre/robo_arm_ws/install/welder_description/share/welder_description/meshes
+[1.406s] copying meshes/link_1_1.stl -> /home/andre/robo_arm_ws/install/welder_description/share/welder_description/meshes
+[1.406s] copying meshes/link_5_1.stl -> /home/andre/robo_arm_ws/install/welder_description/share/welder_description/meshes
+[1.407s] copying meshes/base_link.stl -> /home/andre/robo_arm_ws/install/welder_description/share/welder_description/meshes
+[1.407s] creating /home/andre/robo_arm_ws/install/welder_description/share/welder_description/config
+[1.407s] copying config/display.rviz -> /home/andre/robo_arm_ws/install/welder_description/share/welder_description/config
+[1.407s] copying config/my_controllers.yaml -> /home/andre/robo_arm_ws/install/welder_description/share/welder_description/config
+[1.407s] running install_egg_info
+[1.408s] Copying ../../build/welder_description/welder_description.egg-info to /home/andre/robo_arm_ws/install/welder_description/lib/python3.10/site-packages/welder_description-0.0.0-py3.10.egg-info
+[1.408s] running install_scripts
+[1.431s] writing list of installed files to '/home/andre/robo_arm_ws/build/welder_description/install.log'
+[1.483s] Invoked command in '/home/andre/robo_arm_ws/src/welder_description' returned '0': PYTHONPATH=/home/andre/robo_arm_ws/build/welder_description/prefix_override:/home/andre/robo_arm_ws/install/welder_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/welder_description build --build-base /home/andre/robo_arm_ws/build/welder_description/build install --record /home/andre/robo_arm_ws/build/welder_description/install.log --single-version-externally-managed install_data
